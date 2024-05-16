@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PPB ETS</string>
+
+    <string name="subject_name_1">Pemrograman Perangkat Bergerak (F)</string>
+    <string name="subject_name_2">Proposal Tugas Akhir (A)</string>
+
+    <string name="subject_code_1">EF234601</string>
+    <string name="subject_code_2">EF234602</string>
+
+    <string name="subject_day_1">Rabu</string>
+    <string name="subject_day_2">Jumat</string>
+
+    <string name="subject_room_1">IF-305</string>
+    <string name="subject_room_2">IF-305</string>
+
+    <string name="subject_time_1">13:30 - 15:20</string>
+    <string name="subject_time_2">21:30 - 22:20</string>
+
+</resources>
